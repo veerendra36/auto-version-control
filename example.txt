@@ -1,0 +1,1 @@
+This is an example text file. It contains some general information that our RAG application should be able to understand and answer questions about. For instance, the sky is often blue, and water is essential for life. Programming can be a challenging but rewarding skill to learn.
