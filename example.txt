@@ -2,3 +2,7 @@ This is an example text file. It contains some general information that our RAG 
 
 
 this is the change bro. 
+
+
+
+This is the 2nd commit.
