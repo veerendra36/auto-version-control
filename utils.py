@@ -12,7 +12,7 @@ def greet(name):
 
 def add(x, y):
     """
-    This function adds two numbers.
+   
 
     Args:
         x (int or float): The first number.
